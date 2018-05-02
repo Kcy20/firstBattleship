@@ -1,2 +1,4 @@
-# firstBattleship
-My first battleship game ever in C++
+## firstBattleship
+My first battleship game in C++
+
+
