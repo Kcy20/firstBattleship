@@ -1,4 +1,5 @@
 ## firstBattleship 
+<img src="https://image.ibb.co/bEF0B7/doggy.gif" alt="doggy" border="0">
 
 ### Details
 - Currently, it's a fun and simple way to play battleship! 
