@@ -3,7 +3,7 @@
 
 ### Details
 - Currently, it's a fun and simple way to play battleship! 
-- Written in Visual C++
+- Written to fit Visual C++
 
 ### Todo list
 - [x] Just have fun!
